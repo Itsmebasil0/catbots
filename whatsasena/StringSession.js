@@ -13,7 +13,7 @@ class StringSession {
     }
 
     deCrypt(string = undefined) {
-        if ('CATBOT_CODE' in process.env && string === undefined) {
+        if ('CATBOTS_CODE' in process.env && string === undefined) {
             string = process.env.STRING_SESSION;
         } else if (string !== undefined) {
             if (fs.existsSync(string)) {
@@ -28,7 +28,7 @@ class StringSession {
     }
 
     createStringSession(dict) {
-        return 'PIKACHU;;;' + Buffer.from(JSON.stringify(dict)).toString('base64');
+        return 'CATBOTS;;;' + Buffer.from(JSON.stringify(dict)).toString('base64');
     }
 }
 
