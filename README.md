@@ -5,7 +5,7 @@
 
 <div align="center">
 
-## [![CATBOT](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=FFA500&lines=Welcome+to+catbot+WA+Bot+repo;Created+by+basil+Ser;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/2VM4lxF)
+## [![catbots](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=FFA500&lines=Welcome+to+catbots+WA+Bot+repo;Created+by+basil+Ser;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/2VM4lxF)
 
  </a>
 </p>
@@ -59,9 +59,9 @@ Click WA logo to Join Support Group 👇
 
   ### Simple Method
   
-[![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@itsmebasil/Catbot-QR-1)
+[![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@itsmebasil/catbots-QR-1)
 
-[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/itsmebasil0/catbot.git)
+[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/itsmebasil0/catbots.git)
      </div>
 <br>
 <br >
@@ -81,8 +81,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/Itsmebasil0/catbot
-$ cd catbot
+$ git clone https://github.com/Itsmebasil0/catbots
+$ cd catbots
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -91,8 +91,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/Itsmebasil0/catbot
-$ cd catbot
+$ git clone https://github.com/Itsmebasil0/catbots
+$ cd catbots
 $ chmod +x *
 $ npm i
 $ node qr.js
@@ -113,7 +113,7 @@ By establishing the Pikachu, you are deemed to have accepted these responsibilit
   <div align="center">
     
   [![itsmebasil0](https://github.com/itsmebasil0.png?size=100)](https://github.com/itsmebasil0) | 
-----|----|----|----
+----|
 [BASILSER](https://github.com/itsmebasil0)
 Base, Bug Fixes, Modules | Modifiying as public | Bug Fixes, Modules | Bug fixes, ideas
   </div>
@@ -125,3 +125,4 @@ This project is protected by `GNU General Public Licence v3.0` license.
 ### Disclaimer
 `WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark
  
+
