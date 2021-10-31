@@ -22,8 +22,8 @@ let baseURI = '/apps/' + config.HEROKU.APP_NAME;
         l_dsc = 'turn on and turn of bgm. -bot owner command'
         alr_on = 'Antilink is already open!'
         alr_off = 'Antilink is currently closed!'
-        BGM_on = 'Bgm on aayi!'
-        BGM_off = 'Ini Bgm varilla :('
+        BGM_on = 'Bgm on aki!'
+        BGM_off = 'Bgm dead :('
     }
     if (config.LANG == 'AZ') {
         l_dsc = 'Antilink alətini aktivləşdirir.'
@@ -43,8 +43,8 @@ let baseURI = '/apps/' + config.HEROKU.APP_NAME;
         l_dsc = 'ആന്റിലിങ്ക് ഉപകരണം സജീവമാക്കുന്നു.'
         alr_on = 'ആന്റിലിങ്ക് ഇതിനകം തുറന്നു!'
         alr_off = 'ആന്റിലിങ്ക് നിലവിൽ അടച്ചിരിക്കുന്നു!'
-        BGM_on = 'Bgm on aayi !'
-        BGM_off = 'Ini Bgm varilla :('
+        BGM_on = 'Bgm on akki !'
+        BGM_off = 'Bgm dead :('
     }
     if (config.LANG == 'PT') {
         l_dsc = 'Ativa a ferramenta Antilink.'
