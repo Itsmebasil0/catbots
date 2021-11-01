@@ -46,7 +46,7 @@ module.exports = {
     PROMOTEMSG: process.env.PROMOTE_MESSAGE === undefined ? 'default' : process.env.PROMOTE_MESSAGE,
     DEMOTEMSG: process.env.DEMOTE_MESSAGE === undefined ? 'default' : process.env.DEMOTE_MESSAGE,
     BANMSG: process.env.BAN_MESSAGE === undefined ? 'default' : process.env.BAN_MESSAGE,
-    BOT: process.env.BOT_NAME === undefined ? 'PUCHA SIR' : process.env.BOT_NAME,
+    BOT: process.env.BOT_NAME === undefined ? 'ꪶ͢ɪͥᴛͭsᷤ ͢ᴍͫᴇͤᡃ⃝ᴄᴀᴛʙᴏᴛ࿐' : process.env.BOT_NAME,
     LOGOSK: process.env.ALL_IMG === undefined ? 'https://i.pinimg.com/originals/0e/c8/8c/0ec88ca1469125fc11b4ce76830602f4.jpg' : process.env.ALL_IMG,
     SLINK: process.env.SOCIAL_MEDIA === undefined ? 'https://www.instagram.com/mohammed_basil_12/' : process.env.SOCIAL_MEDIA,
     TAGPLK: process.env.TAG_HEADER === undefined ? '*Attention please 📢*' : process.env.TAG_HEADER,
