@@ -21,14 +21,14 @@ class StringSession {
             }
         }
         
-        var split = string.split(';;;');
+        var split = string.split(':::');
         if (split.length >= 2) {
             return JSON.parse(Buffer.from(split[split.length - 1], 'base64').toString('utf-8'));
         }
     }
 
     createStringSession(dict) {
-        return 'CATBOTS;;;' + Buffer.from(JSON.stringify(dict)).toString('base64');
+        return 'CATBOTS:::' + Buffer.from(JSON.stringify(dict)).toString('base64');
     }
 }
 
