@@ -2,13 +2,13 @@
   "name": "catBot",
   "version": "2.0.0",
   "description": "catbot whatsapp bot provides a bunch of bgms and features to your whatsapp account.",
-  "main": "./pikachu/bot.js",
+  "main": "./catbots/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Itsmebasil0/catbot"
+    "url": "git+https://github.com/Itsmebasil0/catbots"
   },
   "keywords": [
     "WhatsApp",
