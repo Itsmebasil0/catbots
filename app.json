@@ -1,6 +1,6 @@
 {
-    "name": "CATBOT",
-    "description": "catbot - Whatsapp Bot",
+    "name": "CATBOTS",
+    "description": "catbots - Whatsapp Bot",
     "logo": "https://i.imgur.com/HBlOhMc.png",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
     "repository": "https://github.com/Itsmebasil0/catbot",
@@ -8,7 +8,7 @@
     "success_url": "https://t.me/AsenaSupport",
     "stack": "container",
     "env": {
-        "CATBOT_CODE": {
+        "CATBOTS_CODE": {
             "description": "Asena session changed! Type your Pikachu code here.",
             "required": true
         },
