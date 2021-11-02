@@ -9,7 +9,7 @@
     "stack": "container",
     "env": {
         "CATBOTS_CODE": {
-            "description": "Asena session changed! Type your Pikachu code here.",
+            "description": "Asena session changed! Type your Catbots code here.",
             "required": true
         },
         "SUDO": {
