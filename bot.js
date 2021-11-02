@@ -163,7 +163,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                     })
                 }
                 else {
-                    await conn.sendMessage(conn.user.jid, '*Bot Started*', MessageType.text);
+                    await conn.sendMessage(conn.user.jid, '*Catbots started*', MessageType.text);
                 }
             }
             else {
@@ -185,7 +185,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                     })
                 }
                 else {
-                    await conn.sendMessage(conn.user.jid, '*Bot Started*', MessageType.text);
+                    await conn.sendMessage(conn.user.jid, '*Catbots started*', MessageType.text);
                 }
 
             }
@@ -211,7 +211,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                 }
                 else {
 
-                await conn.sendMessage(conn.user.jid, '*Bot Started*', MessageType.text);
+                await conn.sendMessage(conn.user.jid, '*Catbots started*', MessageType.text);
                 }
             }
             else {
@@ -234,7 +234,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                 }
                 else {
 
-                    await conn.sendMessage(conn.user.jid, '*Bot Started*', MessageType.text);
+                    await conn.sendMessage(conn.user.jid, '*Catbots started*', MessageType.text);
                 }
             }
         }
