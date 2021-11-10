@@ -21,7 +21,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `*create Basil sir*
 *To check update .update   To update Bot .update now*
 
-*Bot making video : coming soon*
+*Bot making video : https://youtu.be/qYEbUAywStQ*
 
 *Yt_PASSWORD: _________(password on this video watch it full)*
 
