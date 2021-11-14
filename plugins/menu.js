@@ -122,7 +122,7 @@ if (config.AUTOBİO == 'true') auto_bio = 'On'
 if (config.AUTOBİO == 'false') auto_bio = 'Off'
 
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.jpg, contextInfo: {mentionedJid: message.mention}, caption: `╭──────────────────╮
-   ` + config.BOTPLK + `
+   ` + config.BOTSK + `
 ╭──────────────────╯
 │
 │ ʜᴇʏ ᴜsᴇʀ ` + wish + `
