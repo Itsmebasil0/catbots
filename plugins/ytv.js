@@ -1,12 +1,8 @@
-/* Coded by rashi
-Re-coded by KTB 
-*/
-
 const Asena = require('../events');
 const { MessageType, Mimetype } = require('@adiwajshing/baileys');
 const got = require('got');
 const Config = require('../config');
-const whatsasena = require('../whatsasena');
+// const White = require('../white');
 const LOAD_ING = "*TRYING TO DOWNLOAD*"
 const UPLOAD_ING = "*✅️ DOWNLOADING COMPLETED* \n\n *UPLOADING IN PROCESS...*"
 const axios = require('axios')
@@ -37,6 +33,6 @@ var reply = await message.client.sendMessage(message.jid, LOAD_ING , MessageType
         msg +=  `SIZE :${result.size}\n\n`
         msg +=  `DOWNLOADING LINK :${result.url_video}\n\n`
         msg += '```' 
-	 return await message.client.sendMessage(message.jid,Buffer.from(videoBuffer.data), MessageType.video, {mimetype: Mimetype.mp4, ptt: false , caption: msg , thumbnail: White.tm_b}); 
+	 return await message.client.sendMessage(message.jid,Buffer.from(videoBuffer.data), MessageType.video, {mimetype: Mimetype.mp4, ptt: false , caption: msg , }); //thumbnail: White.tm_b 
 });
     
