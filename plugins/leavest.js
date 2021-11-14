@@ -1,37 +1,53 @@
-/* Copyright (C) 2021 ameer-kallumthodi.
+/* Copyright (C) 2021 itsmebasil.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
-PIKACHU*/
+CATBOT*/
 
 const Asena = require('../events');
 const { MessageType, MessageOptions, Mimetype } = require('@adiwajshing/baileys');
 const fs = require('fs');
 const axios = require('axios');
 const Config = require('../config');
-const need = "Command Kazhinn Yanthankilum Eyuth muthe\n🙄🙄🙄"
+const need = "Photo ittit adiyil url enn mention idu\n🌝"
 
 if (Config.WORKTYPE == 'private') {
 
-  Asena.addCommand({ pattern: 'leavest ?(.*)', fromMe: true, dontAddCommandList: true }, (async (message, match) => {
-
-    if (match[1] === '') return await message.sendMessage(need);
-
-    var ttinullimage = await axios.get(`https://api.zeks.xyz/api/leavest?apikey=Upe1Fp1lDAtX0ioPYLEPsSoX51i&text1=Pikachu&text2=${encodeURIComponent(match[1])}`, { responseType: 'arraybuffer' })
-
-    await message.sendMessage(Buffer.from(ttinullimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*Made by Pikachu*' })
+  Asena.addCommand(
+  { pattern: "url", fromMe: true, desc: Lang.URL_DESC },
+  async (message, match) => {
+    if (
+      !message.reply_message ||
+      (!message.reply_message.image && !message.reply_message.video)
+    )
+      return await message.sendMessage(Lang.URL_NEED_REPLY);
+    if (message.reply_message.length > 10)
+      return await message.sendMessage("*Only accept below 10 MB*");
+    let location = await message.reply_message.downloadAndSaveMediaMessage(
+      "url"
+    );
+    let url = await UploadToImgur(location);
+    return await message.sendMessage(url, { quoted: message.data });
 
   }));
 }
 
 else if (Config.WORKTYPE == 'public') {
 
-  Asena.addCommand({ pattern: 'leavest ?(.*)', fromMe: false, dontAddCommandList: true }, (async (message, match) => {
-
-    if (match[1] === '') return await message.sendMessage(need);
-
-    var ttinullimage = await axios.get(`https://api.zeks.xyz/api/leavest?apikey=Upe1Fp1lDAtX0ioPYLEPsSoX51i&text1=Pikachu&text2=${encodeURIComponent(match[1])}`, { responseType: 'arraybuffer' })
-
-    await message.sendMessage(Buffer.from(ttinullimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*Made by Pikachu*' })
+  Asena.addCommand(
+  { pattern: "url", fromMe: true, desc: Lang.URL_DESC },
+  async (message, match) => {
+    if (
+      !message.reply_message ||
+      (!message.reply_message.image && !message.reply_message.video)
+    )
+      return await message.sendMessage(Lang.URL_NEED_REPLY);
+    if (message.reply_message.length > 10)
+      return await message.sendMessage("*Only accept below 10 MB*");
+    let location = await message.reply_message.downloadAndSaveMediaMessage(
+      "url"
+    );
+    let url = await UploadToImgur(location);
+    return await message.sendMessage(url, { quoted: message.data });
 
   }));
 
