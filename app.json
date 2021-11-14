@@ -105,7 +105,7 @@
             "required": false,
             "value": "hear me friends"
         },
-        "BOTSK": {
+        "BOT_NAME": {
             "description": "bot name",
             "required": false,
             "value": "ꪶ͢ɪͥᴛͭsᷤ ͢ᴍͫᴇͤᡃ⃝ᴄᴀᴛʙᴏᴛ࿐"
