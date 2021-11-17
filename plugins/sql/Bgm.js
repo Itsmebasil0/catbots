@@ -1,4 +1,4 @@
-const config = require('../../config');
+onst config = require('../../config');
 const { DataTypes } = require('sequelize');
 
 const BgmDB = config.DATABASE.define('bgm', {
