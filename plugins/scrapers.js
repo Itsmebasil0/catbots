@@ -1061,14 +1061,14 @@ else if (config.WORKTYPE == 'public') {
 
     }));
 
-    Asena.addCommand({ pattern: 'bot ?(.*)', fromMe: false, desc: 'owner number' }, (async (message, match) => {
+    Asena.addCommand({ pattern: 'owner ?(.*)', fromMe: false, desc: 'owner number' }, (async (message, match) => {
 
 
     const vcard = 'BEGIN:VCARD\n' // basilser
             + 'VERSION:3.0\n' 
             + 'FN:Devaloper\n' //coded by basilser not copy this
             + 'ORG:Developer;\n' // the organization of the contact
-            + 'TEL;type=CELL;type=VOICE;waid=917025967090:919544685703\n' //created basil
+            + 'TEL;type=CELL;type=VOICE;waid=919544685703:919544685703\n' //created basil
             + 'END:VCARD'
     await message.client.sendMessage(message.jid,{displayname: "Developer", vcard: vcard}, MessageType.contact)
 }))
