@@ -18,16 +18,16 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `*create Basil sir*
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `*𝐂𝐑𝐄𝐀𝐓𝐄𝐃 𝐁𝐘 𝐁𝐀𝐒𝐈𝐋 𝐒𝐄𝐑*
 *To check update .update   To update Bot .update now*
 
-*Bot making video : https://youtu.be/qYEbUAywStQ*
+*BOT SETTING VIDEO LINK : https://youtu.be/qYEbUAywStQ*
 
-*Yt_PASSWORD: _________(password on this video watch it full)*
+*GITHUB LINK : https://github.com/itsmebasil0/catbots*
 
-*githublink : https://github.com/itsmebasil0/catbots*
+*AUDIO CAMMANDS : https://github.com/itsmebasil0/catbots/tree/master/uploads*
 
-*audio commads : https://github.com/itsmebasil0/catbots/tree/master/uploads*
+*WHATSAPP GROUP LINK : https://chat.whatsapp.com/EceyD88E4OeJwS0w8KUrsC*
 `}) 
 
 }));
