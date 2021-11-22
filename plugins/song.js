@@ -7,9 +7,9 @@ Asena.addCommand({pattern: 'song', fromMe: false,dontAddCommandList: true}, (asy
 
     var r_text = new Array ();    
 r_text[0] = "\nEda eda, mandankonappi.. Nee enne kooduthal mandan aakkatheda\n";
-r_text[1] = "pucha sirne tholpikkaan ningalkavilla. Jeevitathil pinkiye tholpichittundu… palarum… palavattom…😥😥 aarellum aaa sed bgm onn iduo...";
+r_text[1] = "pucha sirne tholpikkaan ningalkavilla. Jeevitathil puchasirne tholpichittundu… palarum… palavattom…😥😥 aarellum aaa sed bgm onn iduo...";
 r_text[2] = "enik nine ishtam ayi i love you 😘";
-r_text[3] = "Pikchude yudhangal Company Kanan Povunnatheyuloo";
+r_text[3] = "Puchasir yudhangal Company Kanan Povunnatheyuloo";
 r_text[4] = "hi, how are you";
 r_text[5] = "ennikk korch rest theroo...🥵🥵";
 var i = Math.floor(43*Math.random())
