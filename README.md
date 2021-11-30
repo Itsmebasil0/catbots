@@ -69,10 +69,10 @@ __________________
 #####
  
 
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://heroku.com/deploy?template=https://github.com/muhammed-usrbot/taurus-bot.git)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://bit.ly/3x8QSyf)
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://bit.ly/3x8QSyf)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://bit.ly/3E90awZ)
 -------
 <br>
 <br >
