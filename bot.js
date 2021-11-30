@@ -138,7 +138,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         });
 
         console.log(
-            chalk.green.bold('✅ catbot working!')
+            chalk.green.bold('✅ TAURUS BOT working!')
         );
         await new Promise(r => setTimeout(r, 1100));
 
@@ -163,7 +163,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                     })
                 }
                 else {
-                    await conn.sendMessage(conn.user.jid, '*Catbots started*', MessageType.text);
+                    await conn.sendMessage(conn.user.jid, '*TAURUS BOTs started*', MessageType.text);
                 }
             }
             else {
@@ -185,7 +185,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                     })
                 }
                 else {
-                    await conn.sendMessage(conn.user.jid, '*Catbots started*', MessageType.text);
+                    await conn.sendMessage(conn.user.jid, '*TAURUS BOTs started*', MessageType.text);
                 }
 
             }
@@ -211,7 +211,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                 }
                 else {
 
-                await conn.sendMessage(conn.user.jid, '*Catbots started*', MessageType.text);
+                await conn.sendMessage(conn.user.jid, '*TAURUS BOTs started*', MessageType.text);
                 }
             }
             else {
@@ -234,7 +234,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                 }
                 else {
 
-                    await conn.sendMessage(conn.user.jid, '*Catbots started*', MessageType.text);
+                    await conn.sendMessage(conn.user.jid, '*TAURUS BOT started*', MessageType.text);
                 }
             }
         }
@@ -402,8 +402,8 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                                     'Gerçekleşen Hata: ' + error + '\n\n'
                                     , MessageType.text);
                             } else {
-                                await conn.sendMessage(conn.user.jid, '*~_________~ *CATBOT ERROR FOUND!* ~______~*' +
-                                    '\n\n*🧞‍♂️ ' + error + '*\n\n```*Subscribe channel to get updates and to remove errors:* https://youtube.com/channel/UCrnPCbv7jIKqAXQTllDV6Ng \n Report errors\njoin with +91 \n https://chat.whatsapp.com/EceyD88E4OeJwS0w8KUrsC``` ' 
+                                await conn.sendMessage(conn.user.jid, '*~_________~ *TAURUS BOT ERROR FOUND!* ~______~*' +
+                                    '\n\n*🧞‍♂️ ' + error + '*\n\n```*Subscribe channel to get updates and to remove errors:* https://youtube.com/channel/UCeYZqtAtdYq8VwSIkW34JMA \n Report errors\njoin with +91 \n https://chat.whatsapp.com/JCDXgSphA49EHxjPn813IL``` ' 
                                     , MessageType.text);
                             }
                         }
