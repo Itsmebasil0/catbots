@@ -1,24 +1,31 @@
-# 𝐂𝐀𝐓𝐁𝐎𝐓
+
+<p align="center">
+𝐓𝐀𝐔𝐑𝐔𝐒 𝐁𝐎𝐓
+
+##
+<a href="https://bit.ly/3koZRGY"><img src="WLCME.png" alt="google-font" border="0"></a>
 <div align="center">
-        <img border-radius: 15px src="https://i.imgur.com/TqCHb2w.jpg" width="200" height="200"/>
+        <img src="TAURUSGFX2.gif" alt="GIF" width="150" height="150"/>
 </p>
 
 <div align="center">
 
-## [![catbots](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=FFA500&lines=Welcome+to+catbots+WA+Bot+repo;Created+by+basil+Ser;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/2VM4lxF)
+## [![Taurus-Bot](https://readme-typing-svg.herokuapp.com?font=Comix+Loud&color=B62EE0&lines=Welcome+to+Taurus+WA+Bot+repo;Created+by+MUHAMMED;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/3wNuiez)
 
  </a>
 </p>
 <div align="center">
  <p align="center">
-<a href="#"><img title="BASILSER" src="https://img.shields.io/badge/BASILSER-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="TUARUS" src="https://img.shields.io/badge/taurus-B62EE0?colorA=B62EE0&colorB=B62EE0&style=for-the-badge"></a>
+
 </p>
+       
   <p align="center">
-<a href="https://github.com/itsmebasil0"><img title="Author" src="https://img.shields.io/badge/Author-itsmebasil0-/pikachu?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/muhammed-usrbot"><img title="Author" src="https://img.shields.io/badge/Author-muhammed-usrbot?color=B62EE0&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/itsmebasil0">itsmebasil0</a> to make it public
+ᴘʀᴏᴊᴇᴄᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ <a href="https://github.com/muhammed-usrbot">muhammed-usrbot</a>
     <br>
        | © |
         Reserved |
@@ -27,53 +34,59 @@ Project created by <a href="https://github.com/itsmebasil0">itsmebasil0</a> to m
 
 ----
 
-<h3 align="center">Contact Me:</h3>
+<h3 align="center">ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ:</h3>
 <p align="center">
-<a href="https://instagram.com/mohammed_basil_12?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
+<a href="https://instagram.com/taurus_mp4?utm_medium=copy_link" target="blank"><img align="center" src="TRSIG.png" alt="kyrie.baran" height="45" width="45" /></a>
 </p>
-<h4 align="center">Support Video For Deploy Bot 👇:</h4>
+<h3 align="center">sᴜᴘᴘᴏʀᴛ ᴍᴇ:</h3>
 <p align="center">
-<a href="https://youtube.com/channel/UCrnPCbv7jIKqAXQTllDV6Ng" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/1200px-Logo_of_YouTube_%282015-2017%29.svg.png" height="45" width="90" /></a>
+<a href="https://youtube.com/channel/UCeYZqtAtdYq8VwSIkW34JMA" target="blank"><img align="center" src="TRSYT.png" height="45" width="60" /></a>
 </p>
   
 
 <p align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsmebasil0&show_icons=true&theme=dark&locale=en" alt="itsmebasil0" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammed-usrbot&show_icons=true&theme=dark&locale=en" alt="muhammed-usrbot" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsmebasil0&theme=dark" alt="itsmebasil0" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammed-usrbot&theme=dark" alt="muhammed-usrbot" /></p>
 </p>
 
 
 ##
-  <h3 align="center">📢 Support Group 1:</h3>
+  <h3 align="center">ᴄʟɪᴄᴋ ᴡᴀ ʟᴏɢᴏ ᴛᴏ ᴊᴏɪɴ ᴏᴜʀ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ</h3>
 <p align="center">
-Click WA logo to Join Support Group 👇
-    <br>
-<br>
-  <a href="https://chat.whatsapp.com/EceyD88E4OeJwS0w8KUrsC" target="blank"><img align="center" src="https://www.linkpicture.com/q/image-removebg-preview-9_2.png" alt="kyrie.baran" height="200" width="300" /></a>
+  <a href="https://chat.whatsapp.com/JCDXgSphA49EHxjPn813IL" target="blank"><img align="center" src="TRSWA.png"alt="kyrie.baran" height="50" width="50" /></a>
 </p>
-   
+
+
+    
 ## Setup
 <div align="center">
 
-  ### Simple Method
+  ### Simple Method 
+__________________
   
-[![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@itsmebasil/Catbots)
+#####
+ 
 
-[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/itsmebasil0/catbots.git)
-     </div>
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://heroku.com/deploy?template=https://github.com/muhammed-usrbot/taurus-bot.git)
+
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://bit.ly/3x8QSyf)
+-------
 <br>
 <br >
- 
 <div align="center">
 
- [![Run on Repl.it](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)](https://bit.ly/2XqQKMU)
+ [![Run on Repl.it](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)](https://bit.ly/3oskv9U)
  
  <div align="left">
   
-  If Repl.it not working Try Termux for Qr scanning.Just Copy this Link Below in Termux
-```bash <(curl -L https://t.ly/tHxh)```
+ ##### IF REPL.IT NOT WORKING TRY TERMUX FOR QR SCANNING. JUST COPY THIS LINK BELOW IN TERMUX 
+
+```
+bash <(curl-Lhttps://t.ly/tHxh)
+```
             
 ### The Hard Method
 ```js
@@ -101,28 +114,30 @@ $ node bot.js
 ```
 
 
-### ⚠️ Warning! 
+
+### Warning ⚠ ! 
 ```
 Due to Whatsapp bot; Your WhatsApp account may be banned.
 This is an open source project, you are responsible for everything you do. 
-Absolutely, Pikachu executives do not accept responsibility.
-By establishing the Pikachu, you are deemed to have accepted these responsibilities.
+Absolutely, Taurus-Bot executives do not accept responsibility.
+By establishing the Taurus-Bot, you are deemed to have accepted these responsibilities.
 ```
 
-## Developers
+## Developers 
   <div align="center">
     
-  [![itsmebasil0](https://github.com/itsmebasil0.png?size=100)](https://github.com/itsmebasil0) | 
-----|
-[BASILSER](https://github.com/itsmebasil0)
-Base, Bug Fixes, Modules | Modifiying as public | Bug Fixes, Modules | Bug fixes, ideas
+  [![muhammed-usrbot](https://github.com/muhammed-usrbot.png?size=100)](https://github.com/muhammed-usrbot) | [![saidalisaid2](https://github.com/saidalisaid2.png?size=100)](https://github.com/saidalisaid2) | [![Souravkl11](https://github.com/souravkl11.png?size=100)](https://github.com/souravkl11) 
+----|----|----
+[MUHAMMED](https://github.com/muhammed-usrbot) | [saidalisaid2](https://github.com/saidalisaid2) | [Souravkl11](https://github.com/souravkl11/Raganork)
+Base, Bug Fixes, Modules | Bug Fixes, Modules | Bug fixes, ideas
   </div>
 
-
-## License
+## Contributer 
+`MUHAMMED`
+        
+        
+## License 
 This project is protected by `GNU General Public Licence v3.0` license.
 
-### Disclaimer
+### Disclaimer 
 `WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark
- 
-
