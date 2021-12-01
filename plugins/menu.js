@@ -17,9 +17,10 @@ Badboy.addCommand({pattern: 'menu', fromMe: false, desc: 'it send bot menu'}, (a
     
     r_text[0] = "https://bit.ly/3DOgLpP";
     r_text[1] = "https://bit.ly/3cwa8fv";
+    r_text[2] = "https://bit.ly/3lnD2U8";
     
 
-    var i = Math.floor(2*Math.random())
+    var i = Math.floor(3*Math.random())
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
