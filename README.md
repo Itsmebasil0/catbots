@@ -85,7 +85,7 @@ __________________
  ##### IF REPL.IT NOT WORKING TRY TERMUX FOR QR SCANNING. JUST COPY THIS LINK BELOW IN TERMUX 
 
 ```
-bash <(curl-Lhttps://t.ly/tHxh)
+bash <(curl-L https://t.ly/U1co)
 ```
             
 ### The Hard Method
@@ -94,8 +94,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/Itsmebasil0/catbots
-$ cd catbots
+$ git clone https://github.com/muhammed-usrbot/taurus-bot
+$ cd taurus-bot
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -104,8 +104,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/Itsmebasil0/catbots
-$ cd catbots
+$ git clone https://github.com/muhammed-usrbot/taurus-bot
+$ cd taurus-bot
 $ chmod +x *
 $ npm i
 $ node qr.js
