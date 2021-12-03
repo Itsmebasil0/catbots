@@ -11,23 +11,55 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
     
     
    
-  r_text[0] = "https://i.imgur.com/1Qs9iFf.png";
-    
-    
-    var i = Math.floor(1*Math.random())
+  r_text[0] = "https://bit.ly/3DOgLpP";
+  r_text[1] = "https://bit.ly/3cwa8fv";   
+  r_text[2] = "https://bit.ly/3lnD2U8";   
+
+
+    var i = Math.floor(3*Math.random())
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `*𝐂𝐑𝐄𝐀𝐓𝐄𝐃 𝐁𝐘 𝐁𝐀𝐒𝐈𝐋 𝐒𝐄𝐑*
-*To check update .update   To update Bot .update now*
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `*𝐂𝐑𝐄𝐀𝐓𝐄𝐃 𝐁𝐘 𝐌𝐔𝐇𝐀𝐌𝐌𝐄𝐃*
 
-*BOT SETTING VIDEO LINK : https://youtu.be/qYEbUAywStQ*
 
-*GITHUB LINK : https://github.com/itsmebasil0/catbots*
+☘︎ *ᴛᴏ ᴄʜᴇᴄᴋ ᴜᴘᴅᴀᴛᴇ ᴛʏᴘᴇ .ᴜᴘᴅᴀᴛᴇ*
 
-*AUDIO CAMMANDS : https://github.com/itsmebasil0/catbots/tree/master/uploads*
 
-*WHATSAPP GROUP LINK : https://chat.whatsapp.com/EceyD88E4OeJwS0w8KUrsC*
+
+☘︎ *ʜᴏᴡ ᴛᴏ ᴜᴘᴅᴀᴛᴇ .ᴜᴘᴅᴀᴛᴇ ɴᴏᴡ*
+
+
+
+☘︎ *ʜᴏᴡ ᴛᴏ ᴍᴀᴋᴇ ʙᴏᴛ : https://youtu.be/4mWfR23qFuA .*
+
+
+
+☘︎ *ʜᴏᴡ ᴛᴏ ᴍᴀᴋᴇ ʜᴇʀᴏᴋᴜ ᴀᴄᴄᴏᴜɴᴛ : https://youtu.be/6XqkkTfAriQ .*
+
+
+
+☘︎ *ɢɪᴛʜᴜʙ ʟɪɴᴋ : http://www.github.com/muhammed-usrbot/taurus-bot .*
+
+
+
+☘︎ *ᴀᴜᴅɪᴏ ᴄᴏᴍᴍᴀɴᴅs : https://github.com/muhammed-usrbot/taurus-bot/tree/master/uploads .*
+
+
+
+☘︎ *sᴛɪᴄᴋᴇʀ ᴄᴏᴍᴍᴀɴᴅs : https://github.com/muhammed-usrbot/taurus-bot/tree/master/sticker .*
+
+
+
+☘︎ *ᴡʜᴀᴛsᴀᴘᴘ ɢʀᴏᴜᴘ : https://chat.whatsapp.com/JCDXgSphA49EHxjPn813IL .*
+
+
+
+☘︎ *ᴏᴡɴᴇʀ : wa.me/918157849715?&text=ʜɪ%20ᴍᴜʜᴀᴍᴍᴇᴅ-❤︎-*
+
+*Ⓒ︎2021 MUHAMMED*
+
+
 `}) 
 
 }));

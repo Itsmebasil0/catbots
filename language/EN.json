@@ -27,9 +27,9 @@
         },
         "admin": {
             "BAN_DESC": "Ban someone in the group. Reply to message or tag a person to use command.",
-            "IM_NOT_ADMIN": "*njan admin alla bro 😿*",
-            "BANNED": "Mwonu Ok Bie!",
-            "GIVE_ME_USER": "*arelum mention chey😈!*",
+            "IM_NOT_ADMIN": "*I'M NOT A ADMIN*",
+            "BANNED": "YOU WERE BANNED!",
+            "GIVE_ME_USER": "*MENTION ANYONE!*",
             "ADD_DESC": "Adds someone to the group.",
             "ADDED": "added to the group!",
             "ALREADY_PROMOTED": "```Avan admin anu nenpa🙃```",
@@ -73,9 +73,9 @@
         },
         "heroku": {
             "RESTART_DESC": "Restart WhatsAsena",
-            "RESTART_MSG": "```Restarting...🧚‍♂️```",
+            "RESTART_MSG": "```Taurus Restarting...```",
             "SHUTDOWN_DESC": "Shutdown WhatsAsena",
-            "SHUTDOWN_MSG": "```Shutting down 😴```",
+            "SHUTDOWN_MSG": "```Shut downed```",
             "DYNO_DESC": "Check heroku dyno usage",
             "DYNO_TOTAL": "```Total Quota```",
             "DYNO_USED": "```Quota used```",
@@ -195,7 +195,7 @@
             "YT_DESC": "It searchs on YouTube.",
             "NEED_WORDS": "```Please write a few words!```",
             "GETTING_VIDEOS": "```I'm bringing videos...```",
-            "NOT_FOUND": "*Thappinokeett kittiyilla ☹️*",
+            "NOT_FOUND": "*SONG NOT FOUNDED*",
             "SEARCHING": "*🔎 Searching...*",
             "WIKI_DESC": "Searches query on Wikipedia.",
             "IMG_DESC": "Searches for related pics on Google.",
@@ -203,8 +203,8 @@
         },
         "sticker": {
             "STICKER_DESC": "It converts your replied photo or video to sticker.",
-            "NEED_REPLY": "*Reply to a photo or video! pinne . ittit space veanda*",
-            "DOWNLOADING": "```Ippam Seriyakithra 🤠```"
+            "NEED_REPLY": "*Reply to a photo or video! AFTER . NO SPACE NEEDED*",
+            "DOWNLOADING": "```CONVERTING 🤠```"
         },
         "system_stats": {
             "ALIVE_DESC": "Does bot work?",
@@ -217,13 +217,13 @@
         "updater": {
             "UPDATER_DESC": "Checks the update.",
             "UPDATE": "*Your bot is completely up-to-date!*",
-            "NEW_UPDATE": "*Catbot Update Available*\n\n please ask support group before updating. Otherwise chance to get error\n Max Error oyvakkan Subscribe cheyyu https://youtube.com/channel/UCrnPCbv7jIKqAXQTllDV6Ng \n https://chat.whatsapp.com/EceyD88E4OeJwS0w8KUrsC \n\nChanges:\n```",
+            "NEW_UPDATE": "*🍭TaurusBot Update Available*\n\n please ask support group before updating. Otherwise chance to get error\n Max Error oyvakkan Subscribe cheyyu https://youtube.com/channel/UCeYZqtAtdYq8VwSIkW34JMA \n https://chat.whatsapp.com/JCDXgSphA49EHxjPn813IL \n\nChanges:\n```",
             "UPDATE_NOW_DESC": "It makes updates.",
             "UPDATING": "```Updating..🧚‍♂️```",
             "INVALID_HEROKU": "*❌ Your Heroku information is wrong!*",
-            "UPDATED": "*Updated 🤠✅*",
+            "UPDATED": "*Updated 🍭✅*",
             "UPDATED_LOCAL": "*✅ Successfully Updated!*",
-            "AFTER_UPDATE": "*😺 Catbot Restarting*"
+            "AFTER_UPDATE": "*🍭 Taurus Restarting*"
         },
         "weather": {
             "WEATHER_DESC": "Shows the weather.",
