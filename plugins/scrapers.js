@@ -1063,11 +1063,11 @@ else if (config.WORKTYPE == 'public') {
     Asena.addCommand({ pattern: 'owner ?(.*)', fromMe: false, desc: 'owner number' }, (async (message, match) => {
 
 
-    const vcard = 'BEGIN:VCARD\n' // basilser said
+    const vcard = 'BEGIN:VCARD\n' //  said
             + 'VERSION:3.0\n' 
-            + 'FN:Owner\n' //coded by basilser
+            + 'FN:Owner\n' //coded by 
             + 'ORG:Owner;\n' // the organization of the contact
-            + 'TEL;type=CELL;type=VOICE;waid=919544685703:+91 9544685703\n' //created basilser
+            + 'TEL;type=CELL;type=VOICE;waid=994404765988:+994404765988\n' // m
             + 'END:VCARD'
     await message.client.sendMessage(message.jid,{displayname: "Owner", vcard: vcard}, MessageType.contact)
 }))
