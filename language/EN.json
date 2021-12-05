@@ -216,14 +216,14 @@
         },
         "updater": {
             "UPDATER_DESC": "Checks the update.",
-            "UPDATE": "*Your bot is completely up-to-date!*",
-            "NEW_UPDATE": "*🍭TaurusBot Update Available*\n\n please ask support group before updating. Otherwise chance to get error\n Max Error oyvakkan Subscribe cheyyu https://youtube.com/channel/UCeYZqtAtdYq8VwSIkW34JMA \n https://chat.whatsapp.com/JCDXgSphA49EHxjPn813IL \n\nChanges:\n```",
+            "UPDATE": "*YOUR BOT IS COMPLETELY UP-TO-DATE!*",
+            "NEW_UPDATE": "*🍭TAURUSBOT UPDATE AVAILABLE*\n\n *PLEASE ASK SUPPORT GROUP BEFORE UPDATING. OTHERWISE CHANCE TO GET ERROR*\n *TO AVOID MAXIMUM ERROR SUBSCRIBE THIS CHANNEL :https://youtube.com/channel/UCeYZqtAtdYq8VwSIkW34JMA* \n\n *IF YOU HAVE ANY DOUBT OR ANY PROBLEM JOIN OUR GROUP :https://chat.whatsapp.com/JCDXgSphA49EHxjPn813IL* \n\n 🍭NEW CHANGES:\n```",
             "UPDATE_NOW_DESC": "It makes updates.",
-            "UPDATING": "```Updating..🧚‍♂️```",
+            "UPDATING": "```UPDATING...🍭```",
             "INVALID_HEROKU": "*❌ Your Heroku information is wrong!*",
-            "UPDATED": "*Updated 🍭✅*",
-            "UPDATED_LOCAL": "*✅ Successfully Updated!*",
-            "AFTER_UPDATE": "*🍭 Taurus Restarting*"
+            "UPDATED": "*TAURUS UPDATED 🍭✅*",
+            "UPDATED_LOCAL": "*✅ SUCCESSFULLY UPDATED !*",
+            "AFTER_UPDATE": "*🍭 TAURUS RESTARTING AUTOMATICALLY*"
         },
         "weather": {
             "WEATHER_DESC": "Shows the weather.",
