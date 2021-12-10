@@ -55,7 +55,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
 
 
 
-☘︎ *ᴏᴡɴᴇʀ : wa.me/918157849715?&text=ʜɪ%20ᴍᴜʜᴀᴍᴍᴇᴅ%20❤︎%20*
+☘︎ *ᴏᴡɴᴇʀ : wa.me/918157849715?&text=ʜɪ%20ᴍᴜʜᴀᴍᴍᴇᴅ%20❤︎*
 
 *Ⓒ︎2021 MUHAMMED*
 
