@@ -121,7 +121,7 @@ if (Config.WORKTYPE == 'private') {
         }
     }));
     
-    Asena.addCommand({pattern: 'basilser ?(.*)', fromMe: true, dontAddCommandList: true}, (async (message, match) => {
+    Asena.addCommand({pattern: 'taurus ?(.*)', fromMe: true, dontAddCommandList: true}, (async (message, match) => {
 
         var CMD_HELP = '';
         if (match[1] === '') {
