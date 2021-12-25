@@ -1,8 +1,12 @@
-# 𝐂𝐀𝐓𝐁𝐎𝐓
+# 𝗖𝗔𝗧𝗕𝗢𝗧 𝗩1
 <div align="center">
         <img border-radius: 15px src="https://i.imgur.com/TqCHb2w.jpg" width="200" height="200"/>
 </p>
 
+
+```
+BOT IN MAINTANCE📌
+```
 <div align="center">
 
 ## [![catbots](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=FFA500&lines=Welcome+to+catbots+WA+Bot+repo;Created+by+basil+Ser;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/2VM4lxF)
