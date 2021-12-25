@@ -73,7 +73,7 @@ async function whatsAsena () {
     
     
     const conn = new WAConnection();
-    conn.version = [3,3234,9];
+    conn.version = [3,2147,14];
     const Session = new StringSession();
 
     conn.logger.level = config.DEBUG ? 'debug' : 'warn';
@@ -185,7 +185,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                     })
                 }
                 else {
-                    await conn.sendMessage(conn.user.jid, '*Catbots started*', MessageType.text);
+                    await conn.sendMessage(conn.user.jid, '*ᴄᴀᴛʙᴏᴛ ᴡᴏʀᴋɪɴɢ*', MessageType.text);
                 }
 
             }
@@ -211,7 +211,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                 }
                 else {
 
-                await conn.sendMessage(conn.user.jid, '*Catbots started*', MessageType.text);
+                await conn.sendMessage(conn.user.jid, '*ᴄᴀᴛʙᴏᴛ ᴡᴏʀᴋɪɴɢ*', MessageType.text);
                 }
             }
             else {
@@ -234,7 +234,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                 }
                 else {
 
-                    await conn.sendMessage(conn.user.jid, '*Catbots started*', MessageType.text);
+                    await conn.sendMessage(conn.user.jid, '*ᴄᴀᴛʙᴏᴛ ᴡᴏʀᴋɪɴɢ*', MessageType.text);
                 }
             }
         }
@@ -402,8 +402,8 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                                     'Gerçekleşen Hata: ' + error + '\n\n'
                                     , MessageType.text);
                             } else {
-                                await conn.sendMessage(conn.user.jid, '*~_________~ *CATBOT ERROR FOUND!* ~______~*' +
-                                    '\n\n*🧞‍♂️ ' + error + '*\n\n```*Subscribe channel to get updates and to remove errors:* https://youtube.com/channel/UCrnPCbv7jIKqAXQTllDV6Ng \n Report errors\njoin with +91 \n https://chat.whatsapp.com/EceyD88E4OeJwS0w8KUrsC``` ' 
+                                await conn.sendMessage(conn.user.jid, '*ᴄᴀᴛʙᴏᴛ ᴇʀʀᴏʀ*' +
+                                    '\n\n*💌 ' + error + '*\n\n```*Subscribe channel to get updates and to remove errors:* https://youtube.com/channel/UCrnPCbv7jIKqAXQTllDV6Ng \n Report errors\njoin with +91 \n https://chat.whatsapp.com/EceyD88E4OeJwS0w8KUrsC``` ' 
                                     , MessageType.text);
                             }
                         }
