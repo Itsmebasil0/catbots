@@ -1,6 +1,6 @@
 # 𝗖𝗔𝗧𝗕𝗢𝗧 𝗩1
 <div align="center">
-        <img border-radius: 15px src="https://i.imgur.com/TqCHb2w.jpg" width="200" height="200"/>
+        <img border-radius: 15px src="https://i.imgur.com/h0S3Z4D.png" width="200" height="200"/>
 </p>
 
 
