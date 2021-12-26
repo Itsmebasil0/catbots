@@ -17,13 +17,13 @@
 */
 
 function successfullMessage(msg) {
-    return "✅ *WhatsAsena*:  ```" + msg + "```"
+    return "✅ *Catbot*:  ```" + msg + "```"
 }
 function errorMessage(msg) {
-    return "🛑 *WhatsAsena*:  ```" + msg + "```"
+    return "🛑 *Catbot*:  ```" + msg + "```"
 }
 function infoMessage(msg) {
-    return "⏺️ *WhatsAsena*:  ```" + msg + "```"
+    return "⏺️ *Catbot*:  ```" + msg + "```"
 }
 
 
